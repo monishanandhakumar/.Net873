@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\MethodsEg\bin\Debug\MethodsEg.exe.config
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\MethodsEg\bin\Debug\MethodsEg.exe
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\MethodsEg\bin\Debug\MethodsEg.pdb
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\MethodsEg\obj\Debug\MethodsEg.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\MethodsEg\obj\Debug\MethodsEg.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\MethodsEg\obj\Debug\MethodsEg.exe
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\MethodsEg\obj\Debug\MethodsEg.pdb

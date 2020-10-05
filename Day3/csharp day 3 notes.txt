@@ -1,0 +1,92 @@
+one Application --> one or More projects
+Each Projects (BasicEg)-->one or More .cs files
+
+c#--Case Sensitive
+
+setting startup object--rightclick on project name-->
+Properties-->change start up object
+
+Difference between readkey, readline and read
+ReadKey (returns a character): reads only one single character from the standard input stream. Usually used when you're giving options to the user in the console to select from, such as select A, B or C. Another prominent example, Press Y or n to continue.
+ReadLine (returns a string): reads only single line from the standard input stream. As an example, it can be used to ask the user enter their name or age.
+Read (returns an int): reads only one single character from the standard input stream. Similar to ReadKey except that it returns an integer.
+
+class classname
+{
+
+ datatype variblename(datamember)  N
+returntype functionname()(member function)  N
+
+{
+
+}
+
+
+
+}
+
+Dont use c# or csharp keywords for classname,methodname or variable name
+
+Type Conversion
+1.Implicit coversion
+
+int -->float-->long
+
+2.Explicit conversion
+
+long-->float-->int
+
+Boxing:
+convert value type into reference --boxing
+unboxing
+converting reference type to value type
+
+Params
+ //params is keyword which is used to specify a parameter that takes variable no of arguments
+            //only one params keyword in allowed and no additional parameter is permitted after the params keyword in a function declaration
+
+Objects :Entity 
+
+Access Modifier Or Access Specifier
+
+private,internal,protected,protected internal,public
+
+In c#: all the variable and Methods are by default private
+
+In C# : All class are by default internal
+
+What is a constructor in C#?
+ 
+A special method of the class that is automatically invoked when an instance of the class is created is called a constructor. The main use of constructors is to initialize the private fields of the class while creating an instance for the class. When you have not created a constructor in the class, the compiler will automatically create a default constructor of the class. The default constructor initializes all numeric fields in the class to zero and all string and object fields to null.
+
+
+//Overloading
+Method overloading
+Constructor overloading
+
+Same information behavious diffent based on situation
+
+you --home --work(buying vegetables)
+	     work(official work)	
+
+--differers with no of parameters in argument list. no the return type
+-------------
+this  --Keyword : help to refer to current class instance (object)
+
+------------------------
+cant declare multiple class with same name inside same namespace or project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.exe.config
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.exe
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\Class_ObjectsEg\bin\Debug\Class_ObjectsEg.pdb
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.exe
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.pdb
+D:\Online Training\LTI\.Net873\C#\Day3\CharpDay3\Class_ObjectsEg\obj\Debug\Class_ObjectsEg.csprojAssemblyReference.cache
