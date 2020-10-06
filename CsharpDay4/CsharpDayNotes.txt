@@ -1,0 +1,70 @@
+Inheritance
+----------
+code reusability
+
+order of constructor Execution
+-------------------------------
+parent
+child1
+child2
+..
+childN
+
+----------
+when both parent and child class 
+have same variable or function name: use base keyword to identify immediate parent class information
+
+----
+constructor--memory allocation
+destructor--deallocate memory
+
+memory deallocation --garbage collector--CLR
+
+ order of destructor Execution
+-------------------------------
+Child N ...
+child 2
+child1
+..
+Parent 
+
+-----
+Data Abstraction
+      
+
+--Hiding the background information and providing esesntial information from the user
+
+     1.Abstract                   2.Interface
+
+Abstract Class:
+An abstract class is an incomplete class or special class we can't be instantiated. The purpose of an abstract class is to provide a blueprint for derived classes and set some rules what the derived classes must implement when they inherit an abstract class.
+
+
+C# Abstract Class Features
+An abstract class can inherit from a class and one or more interfaces.
+An abstract class can implement code with non-Abstract methods.
+An Abstract class can have modifiers for methods, properties etc.
+An Abstract class can have constants and fields.
+An abstract class can implement a property.
+An abstract class can have constructors or destructors.
+An abstract class cannot be inherited from by structures.
+An abstract class cannot support multiple inheritance.
+--Abstract  (key word)
+
+abstract class cant have object
+any class that inherit abstract class should implement all its abstract method
+
+--Interface
+An interface looks like a class, but has no implementation. The only thing it contains are declarations of events, indexers, methods and/or properties. The reason interfaces only provide declarations is because they are inherited by structs and classes, that must provide an implementation for each interface member declared.
+
+
+100 abstraction
+
+
+
+
+
+
+
+
+

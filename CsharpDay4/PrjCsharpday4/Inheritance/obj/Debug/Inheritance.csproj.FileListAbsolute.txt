@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\CsharpDay4\PrjCsharpday4\Inheritance\bin\Debug\Inheritance.exe.config
+D:\Online Training\LTI\.Net873\C#\CsharpDay4\PrjCsharpday4\Inheritance\bin\Debug\Inheritance.exe
+D:\Online Training\LTI\.Net873\C#\CsharpDay4\PrjCsharpday4\Inheritance\bin\Debug\Inheritance.pdb
+D:\Online Training\LTI\.Net873\C#\CsharpDay4\PrjCsharpday4\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\CsharpDay4\PrjCsharpday4\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\CsharpDay4\PrjCsharpday4\Inheritance\obj\Debug\Inheritance.exe
+D:\Online Training\LTI\.Net873\C#\CsharpDay4\PrjCsharpday4\Inheritance\obj\Debug\Inheritance.pdb
