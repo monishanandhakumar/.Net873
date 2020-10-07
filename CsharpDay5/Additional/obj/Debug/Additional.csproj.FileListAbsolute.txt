@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\CsharpDay5\Additional\bin\Debug\Additional.exe.config
+D:\Online Training\LTI\.Net873\C#\CsharpDay5\Additional\bin\Debug\Additional.exe
+D:\Online Training\LTI\.Net873\C#\CsharpDay5\Additional\bin\Debug\Additional.pdb
+D:\Online Training\LTI\.Net873\C#\CsharpDay5\Additional\obj\Debug\Additional.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\CsharpDay5\Additional\obj\Debug\Additional.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\CsharpDay5\Additional\obj\Debug\Additional.exe
+D:\Online Training\LTI\.Net873\C#\CsharpDay5\Additional\obj\Debug\Additional.pdb
