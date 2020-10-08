@@ -1,0 +1,10 @@
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\bin\Debug\CallDLL.exe.config
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\bin\Debug\CallDLL.exe
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\bin\Debug\CallDLL.pdb
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\bin\Debug\EmployeeSalary.dll
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\bin\Debug\EmployeeSalary.pdb
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\obj\Debug\CallDLL.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\obj\Debug\CallDLL.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\obj\Debug\CallDLL.csproj.CopyComplete
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\obj\Debug\CallDLL.exe
+D:\Online Training\LTI\.Net873\C#\day5\CollectionEg\CallDLL\obj\Debug\CallDLL.pdb

@@ -1,0 +1,12 @@
+C:\Users\MonishaDevi\source\repos\PrivateAssemblyDLL\EmployeeSalary\bin\Debug\EmployeeSalary.dll
+C:\Users\MonishaDevi\source\repos\PrivateAssemblyDLL\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+C:\Users\MonishaDevi\source\repos\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.csprojAssemblyReference.cache
+C:\Users\MonishaDevi\source\repos\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Users\MonishaDevi\source\repos\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.dll
+C:\Users\MonishaDevi\source\repos\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.pdb
+D:\Online Training\LTI\.Net873\C#\day5\PrivateAssemblyDLL\EmployeeSalary\bin\Debug\EmployeeSalary.dll
+D:\Online Training\LTI\.Net873\C#\day5\PrivateAssemblyDLL\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+D:\Online Training\LTI\.Net873\C#\day5\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\day5\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\day5\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.dll
+D:\Online Training\LTI\.Net873\C#\day5\PrivateAssemblyDLL\EmployeeSalary\obj\Debug\EmployeeSalary.pdb
