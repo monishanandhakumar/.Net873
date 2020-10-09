@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\ConnectedArchitectureEg\bin\Debug\ConnectedArchitectureEg.exe.config
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\ConnectedArchitectureEg\bin\Debug\ConnectedArchitectureEg.exe
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\ConnectedArchitectureEg\bin\Debug\ConnectedArchitectureEg.pdb
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\ConnectedArchitectureEg\obj\Debug\ConnectedArchitectureEg.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\ConnectedArchitectureEg\obj\Debug\ConnectedArchitectureEg.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\ConnectedArchitectureEg\obj\Debug\ConnectedArchitectureEg.exe
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\ConnectedArchitectureEg\obj\Debug\ConnectedArchitectureEg.pdb
