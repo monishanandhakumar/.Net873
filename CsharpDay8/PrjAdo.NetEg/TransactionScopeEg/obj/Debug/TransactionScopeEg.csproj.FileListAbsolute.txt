@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\TransactionScopeEg\bin\Debug\TransactionScopeEg.exe.config
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\TransactionScopeEg\bin\Debug\TransactionScopeEg.exe
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\TransactionScopeEg\bin\Debug\TransactionScopeEg.pdb
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\TransactionScopeEg\obj\Debug\TransactionScopeEg.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\TransactionScopeEg\obj\Debug\TransactionScopeEg.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\TransactionScopeEg\obj\Debug\TransactionScopeEg.exe
+D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\TransactionScopeEg\obj\Debug\TransactionScopeEg.pdb
