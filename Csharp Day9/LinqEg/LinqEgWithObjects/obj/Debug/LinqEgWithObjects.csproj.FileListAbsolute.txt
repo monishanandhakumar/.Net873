@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\LinqEgWithObjects\bin\Debug\LinqEgWithObjects.exe.config
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\LinqEgWithObjects\bin\Debug\LinqEgWithObjects.exe
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\LinqEgWithObjects\bin\Debug\LinqEgWithObjects.pdb
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\LinqEgWithObjects\obj\Debug\LinqEgWithObjects.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\LinqEgWithObjects\obj\Debug\LinqEgWithObjects.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\LinqEgWithObjects\obj\Debug\LinqEgWithObjects.exe
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\LinqEgWithObjects\obj\Debug\LinqEgWithObjects.pdb

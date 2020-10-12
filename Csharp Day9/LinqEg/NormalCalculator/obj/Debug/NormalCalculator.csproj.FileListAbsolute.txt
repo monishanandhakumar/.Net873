@@ -1,0 +1,5 @@
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\NormalCalculator\bin\Debug\NormalCalculator.dll
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\NormalCalculator\bin\Debug\NormalCalculator.pdb
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\NormalCalculator\obj\Debug\NormalCalculator.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\NormalCalculator\obj\Debug\NormalCalculator.dll
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\NormalCalculator\obj\Debug\NormalCalculator.pdb

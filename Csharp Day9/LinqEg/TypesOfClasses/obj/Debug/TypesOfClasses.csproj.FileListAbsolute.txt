@@ -1,0 +1,7 @@
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\TypesOfClasses\bin\Debug\TypesOfClasses.exe.config
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\TypesOfClasses\bin\Debug\TypesOfClasses.exe
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\TypesOfClasses\bin\Debug\TypesOfClasses.pdb
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\TypesOfClasses\obj\Debug\TypesOfClasses.csprojAssemblyReference.cache
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\TypesOfClasses\obj\Debug\TypesOfClasses.csproj.CoreCompileInputs.cache
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\TypesOfClasses\obj\Debug\TypesOfClasses.exe
+D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\TypesOfClasses\obj\Debug\TypesOfClasses.pdb
