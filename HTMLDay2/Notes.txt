@@ -1,0 +1,17 @@
+Grandients
+
+  Linear radients (doen,up,left,right,diagonally)
+  Radial Gradients(defined by their center)
+
+html 5 tag
+-----------
+header
+nav bar
+
+<section>
+<article>
+
+</section>
+
+
+footer
