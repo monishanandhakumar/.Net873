@@ -1,0 +1,5 @@
+Create an angular application :
+1.create a student array display the student information in panel(Bootstrap)
+id,name,iscleared(boolean),img
+2.display the student who cleared semester 1
+

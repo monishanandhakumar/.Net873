@@ -1,0 +1,14 @@
+create new project -->ng new projectname
+
+
+
+to build -->ng build
+
+
+
+to run -->ng serve -o
+
+
+
+to change Port-->ng serve --port portnumber
+ng serve --port 4203

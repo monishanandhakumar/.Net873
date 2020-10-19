@@ -1,0 +1,38 @@
+<p>employeearray works!</p>
+<h1>Structural Directive</h1>
+<table class="table table-border table-hover">
+    <thead>
+        <tr>
+            <th>Index</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody *ngFor="let emp of people,let i=index">
+        <tr>
+            <td>{{i}}</td>
+           <td>{{emp.name}}</td>
+           <td>{{emp.age}}</td>
+           <td>{{emp.dept}}</td>
+        </tr>
+    </tbody>
+</table>
+
+<hr>
+<h2>NG IF</h2>
+<h3>Display the employee age >23</h3>
+<div *ngFor="let e of people">
+    <li *ngIf="e.age > 23 && e.dept==='HR'">{{e.name}}  {{e.age}}</li>
+    <li>{{e.dept}}</li>  <!--if condition is not applied to this-->
+</div>
+<br>
+
+<div class="det" *ngFor="let e of people">
+    <div *ngIf="e.age > 23 && e.dept==='HR'">
+        <li >{{e.name}}  {{e.age}}</li>
+        <li>{{e.dept}}</li>  
+
+    </div>
+    
+</div>
