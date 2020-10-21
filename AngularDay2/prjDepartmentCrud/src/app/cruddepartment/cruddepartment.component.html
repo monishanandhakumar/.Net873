@@ -1,0 +1,40 @@
+<div class="container">
+<p>cruddepartment works!</p>
+<h3>Adding data to Department </h3>
+<div class=" alert alert-warning">
+<form>
+Deptid<input type="number" id="did" name="deptid"  [(ngModel)]="getdeptinfo.deptid"> <br/><br/>
+Depatname<input type="text" id="dname" name="dname" [(ngModel)]="getdeptinfo.dname"><br/> <br/>
+Depatlocation<input type="text" id="location" name="location" [(ngModel)]="getdeptinfo.location"><br/> <br/>
+<button type="submit" (click)="addDepartment()">Save</button> &nbsp;&nbsp;
+<button class="btn btn-success" type="submit" (click)="upateDepartment()">update</button>
+</form>
+
+</div>
+
+<hr>
+<h3>View</h3>
+<div>
+ <table class="table table-hover">
+     <thead>
+         <tr>
+             <th>Id</th>
+             <th>Name</th>
+             <th>Location</th>
+         </tr>
+     </thead> 
+     <tbody *ngFor="let d of dept;let i =index" >
+<tr>
+    <td>{{d.deptid}}</td>
+    <td>{{d.dname}}</td>
+    <td>{{d.location}}</td>
+    <td><button (click)="deleteDepartment(i)">Delete</button></td>
+    <td><button (click)="editDepartment(i)">Edit</button></td>
+    <td><button (click)="deleteDepartmentbyid(d.did)">deletebyid</button></td>
+</tr>
+
+     </tbody>
+ </table>
+
+</div>
+</div>

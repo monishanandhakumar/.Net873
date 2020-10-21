@@ -1,0 +1,36 @@
+<p>eventbinding works!</p>
+
+<h3>Eg1</h3>
+<h2>click the button to display the message in alert box</h2>
+<button class="btn btn-primary"  (click)=welcomeMsg()>Click Me</button>
+
+<h3>Eg2</h3>
+
+<h4>Template reference variable :you can refer any dom element(html tag) inside html file
+    symbol:# referes template reference variable
+</h4>
+
+<input type="text" #uname >
+<button class="btn btn-success"  (click)=displayfullname(uname)>Display full name</button>
+
+{{fname}}
+
+<h4>Template reference variable :you can refer any dom element(html tag) inside html file
+    symbol:# referes template reference variable
+</h4>
+
+<h3>Eg3</h3>
+<input type="text" #salin >
+<button class="btn btn-success"  (click)=incrementSalary(salin)>See Increment</button>
+<p>IncrementSalary: <span class=".sal">{{incrementedsalary}}</span></p>
+
+<h3>Eg4 </h3>
+<h4>thumbsup and thumbsdown</h4>
+<span class="glyphicon glyphicon-thumbs-up" (click)="thumbsUp()"></span>
+
+<h3>LIKES:{{like}}</h3>
+
+<h3>Eg5</h3>
+<h4>Color filling in star</h4>
+<h5></h5>
+<span [class]="clsName" (click)="changeStar()"></span>

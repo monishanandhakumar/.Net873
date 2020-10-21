@@ -1,0 +1,36 @@
+<h1>Welcome</h1>
+
+<h3>Switch Case</h3>
+
+<div *ngFor="let p of people" [ngSwitch]="p.dept">
+
+<li *ngSwitchCase="'HR'" class="text-success">
+
+{{p.name}}  {{p.dept}}
+</li>
+
+<li *ngSwitchCase="'Sales'" class="text-danger">
+
+  {{p.name}}  {{p.dept}}
+  </li>
+
+  <li *ngSwitchDefault class="text-warning">
+
+    {{p.name}}  {{p.dept}}
+    </li>
+</div>
+<hr>
+<h3>Attribute directive ngClass,ngStyle</h3>
+
+<ul *ngFor="let emp of people">
+<li  [ngClass]="{'text-success':emp.dept==='Sales','text-info':emp.dept==='Development' }">
+  {{emp.name}}  {{emp.dept}}</li>
+
+</ul>
+<div class="container">
+
+  <hr>
+<app-eventbinding></app-eventbinding>
+<hr>
+<app-twowaybinding></app-twowaybinding>
+</div>

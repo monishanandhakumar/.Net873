@@ -1,0 +1,3 @@
+
+Create Employee model, emp array to store employee info
+Perform crud operation by passing employee id perform delete and update
