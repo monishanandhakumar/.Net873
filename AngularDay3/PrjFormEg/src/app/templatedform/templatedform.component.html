@@ -1,0 +1,90 @@
+<p>templatedform works!</p>
+<div>                                                                 <!--disable browser validation-->
+    <form #customerform="ngForm" (ngSubmit)="onRegister(customerform)" novalidate>
+        <p>
+            <label for="cname">Enter Name</label>
+            <input type="text"  name="cname"  [(ngModel)]=cust.cname #cname="ngModel"  required minlength="5">
+           Touched: {{cname.touched}}
+           dirty:{{cname.dirty}} 
+            </p>
+            <div *ngIf="!cname?.valid && (cname?.dirty || cname?.touched)" class="error">
+                <div *ngIf="cname.errors.required">
+                    <small class="text-danger">Customer Name  is Required</small>
+                </div>
+               
+                <div *ngIf="cname.errors.minlength">
+                    <small class="text-danger">  Customer Name should of minimum length {{cname.errors.minlength?.requiredLength}}</small>
+                     </div>
+            </div>
+
+        <p>
+            <label for="age">Enter age</label>
+            <input type="number" id="cage" name="age" [(ngModel)]=cust.age #age=ngModel required  >
+        </p>
+        <div *ngIf="!age?.valid && (age?.dirty || age?.touched)" class="error">
+            <div *ngIf="age.errors.required">
+                <small class="text-danger">Age is Required</small>
+            </div>
+            <div *ngIf="age.errors.ageRangeValidator">
+                <small class="text-danger">18 to 45</small>
+            </div>
+      </div>
+
+
+        <p>
+            <label for="phno">enter Mobileno</label>
+            <input type="text" id="cphno" name="phno" [(ngModel)]=cust.phno #phno=ngModel required pattern="^\d{3}-\d{3}-\d{4}$">
+    
+        </p>
+        <div *ngIf="!phno?.valid && (phno?.dirty || phno?.touched)" class="error">
+            <div *ngIf="phno.errors.required">
+                <small class="text-danger">mobile number is Required</small>
+            </div>
+            <div *ngIf="phno.errors.pattern">
+                <small class="text-danger">use pattern:000-000-0000</small>
+            </div>
+        </div>
+
+      
+
+
+        <p>
+            <label for="mailid">Enter Mailid</label>
+            <input type="text" id="cemail" name="mailid" [(ngModel)]=cust.mailid  #mailid="ngModel" required email>
+        </p>
+        <div *ngIf="!mailid?.valid && (mailid?.dirty || mailid?.touched)" class="error">
+            <div *ngIf="mailid.errors.required">
+                <small class="text-danger">Mail id is Required</small>
+            </div>
+            <div *ngIf="mailid.errors.email">
+                <small class="text-danger">invalid email address</small>
+            </div>
+        </div>
+        <p>
+            <label for="domain">Select your domain</label>
+            <select name="domain" id="cdomain">
+             <option selected>Choose</option>
+             <option *ngFor="let d of domain">{{d}}</option>
+            </select>
+        </p>
+
+        <p>
+            <label for="gender">Select Gender</label>
+           <input type="radio" name="gender" value="male" [(ngModel)]=cust.gender checked>Male
+           <input type="radio" name="gender" value="female" [(ngModel)]=cust.gender>Female
+        </p>
+        
+
+        <p>
+            <label for="newsletter">Subscribe NewsLetter</label>
+           <input type="checkbox" name="newsletter" id="cnewsletter" [(ngModel)]=cust.newsletter>
+           
+        </p>
+
+        <p>
+            <button class="btn btn-primary" type="submit" [disabled]="!customerform.valid"> Submit</button>
+        </p>
+
+        {{customerform.valid}}
+    </form>
+</div>

@@ -1,0 +1,6 @@
+1.custom validation for password and confirm password in templated driven form
+
+2. create one registration form using reactive forms
+
+
+prjServiceEg

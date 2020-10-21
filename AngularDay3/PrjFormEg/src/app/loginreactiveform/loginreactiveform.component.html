@@ -1,0 +1,33 @@
+<p>loginreactiveform works!</p>
+
+<div class="jumbotran">
+
+    <form [formGroup]="loginForm" (ngSubmit)="doLogin()">
+        <div > 
+         <label>Enter Mailid</label>
+         <input type="text"  formControlName="mailid" email > 
+        
+         <div *ngIf="!loginForm.get('mailid')?.valid && (loginForm.get('mailid')?.dirty || loginForm.get('mailid')?.touched)" class="error">
+            <div *ngIf="loginForm.get('mailid').errors.required" >
+             <small class="text-danger">Email is required</small> 
+            </div>
+            <div *ngIf="loginForm.get('mailid').errors.email">
+                <small class="text-danger">invalid email address</small>
+            </div>
+          </div>
+    
+
+        </div>
+         <div>
+             <label>Enter Password</label>
+             <input type="password"  formControlName="password">
+     
+         </div>
+    
+         <button class="btn btn-success" type="submit"  [disabled]="loginForm.invalid">Login</button>
+         <button class="btn btn-danger" type="reset" >Reset</button>
+    
+
+</form>
+
+</div>
