@@ -1,0 +1,23 @@
+<p>cart works!</p>
+
+{{products|json}}
+<div class="alert alert-success" *ngIf="products.length>0;else empty">
+    <p *ngFor="let product of products">
+        Name:{{product.pname}}
+        <br/>
+        Quantity:{{product.quantity}}
+        <br/>
+        Price:{{product.price}}
+        <br/>
+        <img [src]="product.image" alt="No Image"/>
+        <br/>
+        {{product.price*product.quantity}}<br/>
+        <button (click)="removeItem(product)">Remove from Cart</button>
+    </p>
+    <p class="text text-danger">Total Price:{{grandTotal}}</p>
+    </div>
+    <ng-template #empty>
+        <p>
+            Your cart is empty!!!!
+         </p> 
+    </ng-template>  

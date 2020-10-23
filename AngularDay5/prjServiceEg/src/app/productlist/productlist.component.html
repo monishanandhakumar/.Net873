@@ -1,0 +1,21 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Image</th>
+      </tr>
+    </thead>
+    <tbody *ngFor="let p of pro">
+      <tr>
+        <td>{{p.pname}}</td>
+        <td>{{p.price}}</td>
+        <td>{{p.quantity}}</td>
+        <td><img [src]=p.image height="100" width="100" ></td>
+        <td><a [routerLink]="['/productinfo/',p.pid]">View  Additional Info here!!!</a></td>
+      <td> <button (click)="addToCart(p.pid)">Buy</button></td>
+      </tr>
+      
+    </tbody>
+  </table>

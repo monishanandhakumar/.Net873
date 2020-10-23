@@ -1,0 +1,38 @@
+
+<!--Adding Product /Create Product-->
+<div class="jumbotron">
+  <form  #productform="ngForm">
+    ProductId: <input type="number" name="id" [(ngModel)]="createProduct.pid"  ><br/><br/>
+  ProductName:<input type="text" name="pname" [(ngModel)]="createProduct.pname" > <br/> <br/>
+  ProductPrice:<input type="text" name="price" [(ngModel)]="createProduct.price" > <br/> <br/>
+ Quantity:<input type="text" name="quantity" [(ngModel)]="createProduct.quantity"> <br/> <br/>
+ ProductAdditionalInfo:<input type="text" name="additionalinfo" [(ngModel)]="createProduct.info"> <br/> <br/>
+  ProductImage:<input type="text"  name="img"[(ngModel)]="createProduct.image"> <br/> <br/>
+  <button type="button btn-primary" (click)="addProducts()">Add New Product</button>&nbsp;&nbsp;
+  <button type="button btn-primary" (click)="updateProducts(productform)">update Product</button>
+  </form>
+  </div>  
+  {{message}}
+<hr>
+<table class="table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Price</th>
+      <th>Quantity</th>
+      <th>Image</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let p of pro">
+    <tr>
+      <td>{{p.pname}}</td>
+      <td>{{p.price}}</td>
+      <td>{{p.quantity}}</td>
+      <td>{{p.info}}</td>
+      <td><img [src]=p.image height="100" width="100" ></td>
+      <td><button type="button" (click)="deleteProducts(p.pid)">Delete</button></td>
+      
+    </tr>
+    
+  </tbody>
+</table>
