@@ -1,0 +1,286 @@
+.NET is a framework that provides a platform to develop different types of application.
+Types of Application that can be created in .NET is:
+1. Desktop Application - Console Application (NO GUI), Windows Application
+2. Web Application ASP.NET
+3. Mobile Application Xamarin
+.NET framework provides:
+	1. BCL (Base Class Libraries - Header files of C++)
+	2. Languages - C#, VB.NET, J#, F#, VC++, perl, smalltalk, python, ruby on rails.
+C# compiler will compile c# source Code - MSIL (Microsoft Intermediate Language)
+VB compiler will compile VB source Code - MSIL/CIL Common Intermediate Language
+ For Execution, MSIL is sent to CLR (Common Language Runtime)
+JIT (Just InTime Compiler) converts the MSIL code into native code which can be understood by OS.
+CLS - Common Language Specification - Set of Rules that .NET targeting languages should adhere to.
+CTS - Common Type System - susbet of CLS
+Managed Code- The set of statements which can be understood by CLR
+Unmanaged Code - Set of statements which are not managed by CLR.
+
+C# - Language 
+VS2015 - IDE (Integrated Development Environment) (Eclipse/Netbeans)
+
+Namespace - collection of classes
+Solution is a collection of projects
+C# is a case sensitive language
+
+C# program structure
+Namespace, Nested Namespace
+// - single line comment   /* */ - multiple line comment
+
+Access Specifiers in C#
+1. private - default access specifier for member variables. - lowest level of access
+2. Protected - inherited classes
+3. Public - default access specifier for namespace. - highest level of access
+4. internal - default access specifier for a class - same namespace
+5. protected internal - available for derived classes as well as classes which belongs to same namespace.
+
+
+Ildasm.exe- to disassemble the assembly of an application and to know the classes and methods of a .NET application
+Assembly is a logical unit of deployment
+It consists of PE (Portable Executable), manifest and metadata.
+Assemblies can be dll or exe
+exe - executables - Winword, calc, firstapplication
+dll - dynamic link libraries  -ctrl+f, ctrl v, ctrl c
+dll does not have a memory of its own. They execute themselves with in an host application. 
+Advantage of dll is reusability.
+
+Assemblies are of 2 types
+1. private Assembly
+2. Shared Assembly
+
+Global Assembly Cache - the place where the assembly is deployed with a strong name for many users to use
+the same copy of the assembly.
+Strong name - signing is done to the assembly in order to deploy the assembly in GAC.
+gacutil/i app.exe is the command used to deploy our assembly in cache.
+
+Datatypes-
+1. Value Types - int, boolean, float, struct, enum
+2. Reference Types - string, object, class
+
+Typecasting - Converting one datatype to another
+There are two types of typecasting - implicit and explicit
+Implicit- To convert int to float 
+Explicit - To convert float to int - we use convert.toint16();
+
+Boxing - Converting value type to reference type
+UnBoxing - Converting reference type to value type (converted string to int/float)
+
+Constructor is a special method which has the same name as the class name.
+It is used to initialize the member variables.
+It is automatically invoked when we instantiate the class(creating an object).
+Constructor will not have any return type.
+Constructor overloading is passing different parameters to the constructor(function with the same name).
+
+Finalize is a destructor which is automatically called to clear the memory.
+Dispose is method which can be called explicitly to release the resources.
+Gc.collect - explicitly calling the garbage collector to clear the memory.
+
+Inheritance is an oops concept where one class derives the mem variables and mem fns of other class(base class).
+The advantage for Inheritance is reusability.
+Types of Inheritance:
+1. Single Inheritance (class B deriving Class A) A is the base class and b is the derived class
+A--->B 
+A--->c
+A--->D
+2. Multi level Inheritance (Class B deriving Class A, Class C deriving Class B)
+A-->B--->C
+
+Note: C# does not support multiple inheritance. 
+Class C cannot inherit from Classes A, B and D.
+class c:a,b,d ---> not correct
+
+Class A - add() 
+Class B - add()
+Class C :A,B
+
+Overriding a function-the function with the same name of the base class but with different definition.
+
+Virtual keyword in base class should have override keyword in the derived class
+If there is no virtual keyword in base, then derived class should have new keyword in the method definition
+
+If the object of base is created and memory of derived is allocated, 
+(Person p1=new Employee)
+with virtual keyword in base - it calls derived methods
+without virtual keyword in base - it calls base class methods.
+
+create a class called shape. Have a member function called area.
+derive 3 classes - rectangle, triangle and circle
+define area for these 3 derived classes and call them from client.
+
+A method without definition is an abstract method.
+The abstract method cannot be virtual, static and private.
+An abstract method has to be declared inside an abstract class
+An abstract class is a collection of both abstract and non abstract methods
+An Abstract class cannot be instantiated and it has to be inherited.
+The derived class should override the abstract method or else it also becomes an abstract class
+
+A static variable (class variable) is a variable which can span across objects and store the value and 
+it can retain the value across objects.
+
+An instance variable cannot span across other objects. They occuppy memory with in the instance.
+
+A static function can be accessed directly with the class name. We need not instantiate the class in order
+to call the function.
+
+Interface is a collection of abstract methods.
+A class that implements an interface should define all the methods of the interface.
+
+Property:
+It is the member variable which helps us to access the private variables of the class outside the class.
+Member variables with only get property are Read only properties
+Get property is called as Accessors
+Set property is called as Mutators.
+
+Types of Classes:
+1. Abstract Class - contains atleast one abstract method. It cannot be instantiated and it has to be inherited.
+2. Selaed Class - cannot be inherited and has to be instantiated.
+3. Partial Class - can have methods defined in bits and pieces
+4. Static Class - can neither be instantiated nor be inherited. They can contain only static mem variables
+and static mem fns.
+
+Collections:
+1. Array
+2. Arraylist
+3. Hashtable
+4. Stack
+5. Queue
+
+Generics:
+1. List
+2. Dictionary
+3. Hashset
+4. Generics with user defined classes
+5. Generic methods and Generic Classes
+
+Exception:
+Errors are of 3 types:
+1. Syntax error - rectified
+2. Logical Error - Understand the logic
+3. Runtime Error- Exception - cannot be corrected, can be handled
+
+Exception class is the base class for all kinds of exception. It provides you properties with which
+we can know the details of the exceptions(message, source, stacktree)
+Try block will contain those set of statements which might cause the exception.
+Catch(Exception) should be the last catch block as it can handle all the kinds of exception.
+Finally block is used to execute those set of statements irrespective of whether exceptions occurs or not
+When we want to create a user defined exception, we have to inherit our class from ApplicationException Class.
+
+
+Delegates:
+They are reference type and they point to the address of a method.
+public void fnadd(int x,int y) - function Declaration/Function prototyping
+public delegate void delegateadd(int,int)
+
+The delegate can point to the address of functions which has the same signature.
+Delegates are of 2 types:
+1. SingleCast Delegate - If a delegate object points to only one method d1- add, d2 - sub, d3- mul
+2. Multicast Delegate - If a single delegate objects points to more than one method 
+
+Thread:
+Thread is a unit of execution of a process
+One primary thread will be allocated by the CPU for every process.
+Asynchronous programming can be implemented using Async and Await keywords in C#
+Tasks can be created by which the methods can be executed asynchronously.
+
+ADO.NET Architecture
+1. Connected Architecture
+2. Disconnected Architecture
+
+It is a framework which contains lot of namespaces and BCLs to fetch the data from the datasource.
+DataProvider-
+
+1. Connection - 1. Data Source(Machine Name) =(local)
+		2. Initial Catalog (DatabaseName)
+		3. Integrated Security=true (windows authentication) User Id=;Pwd=;
+2. Command  - Select, Insert, Update and Delete (CRUD - Create, Read, Update and Delete)
+3. DataReader - to Hold the records returned by Select command, we need DataReader object.
+select command - ExecuteReader();
+Insert, Update, Delete- ExecuteNonQuery(); returns an integer - number of rows affected.
+
+Disconnected Architecture - DataAdapter and DataSet
+DataSet - Collection of DataTables in front end (Similar to a Database in front end)
+DataTable- Collection of DataRows and DataColumns
+DataView - View in frontend - sort and filter
+
+LINQ stands for Language Integrated Query
+
+LINQ - collections
+LINQ - Entities
+LINQ - SQL
+LINQ - XML
+
+Query Syntax of LINQ - from variable in collection where condition select variable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
