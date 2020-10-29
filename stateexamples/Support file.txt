@@ -1,0 +1,11 @@
+This folder has examples for 
+
+1. ViewState
+2. Hidden Fields
+3. Cookies - Persistant
+4. Query String - 2 methods to access
+5. Session State / Application State  - both in the same web form
+6. One testing aspx - to show all the property values of the httpcookie class
+
+From Cookies example onwards there will be 2 webforms (source and dest to show value travelling between web forms).
+ 
