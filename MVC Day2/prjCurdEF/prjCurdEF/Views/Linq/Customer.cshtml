@@ -1,0 +1,28 @@
+﻿@model IEnumerable<prjCurdEF.Models.Customer>
+  
+
+@{
+    ViewBag.Title = "Customer";
+}
+
+<h2>Customer</h2>
+<table class="table">
+<thead>
+    <tr>
+        <th>CustomerID</th>
+        <th>CompanyName</th>
+        <th>Country</th>
+    </tr>
+</thead>
+<tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.CompanyName</td>
+            <td>@item.Country</td>
+        </tr>
+    }
+</tbody>
+
+</table>

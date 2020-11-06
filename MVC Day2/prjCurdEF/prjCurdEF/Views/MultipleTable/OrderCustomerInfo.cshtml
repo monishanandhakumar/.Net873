@@ -1,0 +1,18 @@
+﻿@model IEnumerable<prjCurdEF.Models.Order>
+@{
+    ViewBag.Title = "OrderCustomerInfo";
+}
+
+<h2>OrderCustomerInfo</h2>
+<h3>Taking data from Orders, customer and Employee</h3>
+@foreach(var item in Model)
+{
+    <ul type="none">
+        <li>OrderId:@item.OrderID</li>
+        <li>CustomerId:@item.CustomerID</li>
+        <li>CompanyName:@item.Customer.CompanyName</li>
+        <li>EmployeeId:@item.Employee.EmployeeID</li>
+        <li>FirstName:@item.Employee.FirstName</li>
+
+    </ul>
+}

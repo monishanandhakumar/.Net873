@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "CustomerbyRegion";
+}
+
+<h2>CustomerbyRegion</h2>
+
+@foreach (var item in Model)
+{
+    foreach (var cname in item.Values)
+    {
+        <li>@cname.CustomerID</li>
+    }
+
+}

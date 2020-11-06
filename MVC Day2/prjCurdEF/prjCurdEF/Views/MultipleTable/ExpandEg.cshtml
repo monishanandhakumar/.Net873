@@ -1,0 +1,31 @@
+﻿@model dynamic
+   @using prjCurdEF.Models;
+@{
+    ViewBag.Title = "ExpandEg";
+}
+
+<h2>ExpandEg</h2>
+
+<table>
+    <tr>
+        <th>OrderId</th>
+        <th>CustomerId</th>
+        <th>CompanyName</th>
+        <th>ContactName</th>
+    </tr>
+
+    @foreach (var o in Model)
+    {
+        <tr>
+            <td>
+                
+                @o.OrderId
+            </td>
+            <td>
+                @o.CustomerID
+            </td>
+            <td>@o.Customer.CompanyName</td>
+            <td>@o.Customer.ContactName</td>
+        </tr>
+    }
+</table>

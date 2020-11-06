@@ -1,0 +1,6 @@
+Create database Moviedatabase 
+Movietable(mid,moviename,dateofrelease)
+
+
+1.Create a MVC Application to perform crud operation in movie table
+2.Display the movie released in any given year 
