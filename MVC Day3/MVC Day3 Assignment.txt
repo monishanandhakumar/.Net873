@@ -1,0 +1,5 @@
+create a theater table (tid,tname,location)
+create a screen table (sid,tid,mid,amount)
+table customer
+
+create a registration and Login form using html helpers

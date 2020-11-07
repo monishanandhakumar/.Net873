@@ -1,0 +1,34 @@
+﻿@model prjStoredProcedureEg.Models.Territory
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Territory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TerritoryDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TerritoryDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Region.RegionDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Region.RegionDescription)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TerritoryID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

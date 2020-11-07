@@ -1,0 +1,14 @@
+﻿
+@model IEnumerable<prjStoredProcedureEg.Models.SalesByCategory_Result>
+@{
+    ViewBag.Title = "Sales";
+}
+
+<h2>Sales</h2>
+
+@foreach (var i in Model)
+{
+    @i.ProductName
+    @i.TotalPurchase
+}
+
