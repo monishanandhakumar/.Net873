@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Day1_2_3_Revision.Models.Territory>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TerritoryDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Region.RegionDescription)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TerritoryDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Region.RegionDescription)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TerritoryID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TerritoryID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TerritoryID })
+        </td>
+    </tr>
+}
+
+</table>
