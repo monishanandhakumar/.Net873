@@ -1,0 +1,44 @@
+﻿@using HtmlHelpersEx.Models
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm("Createregistration", "Register",FormMethod.Post))
+{
+<table border="1" cellspacing="5" cellpadding="5">
+    <tr>
+        <td>@Html.Label("Enter your Name")</td>
+        <td>@Html.TextBox("txtName")</td>
+    </tr>
+    <tr>
+        <td>@Html.Label("Enter your Password")</td>
+        <td>@Html.Password("Password1")</td>
+    </tr>
+    <tr>
+        <td>@Html.Label("Gender")</td>
+        <td>Male:@Html.RadioButton("Gender", "Male")
+       Female:@Html.RadioButton("Gender", "Female")</td>
+    </tr>
+    <tr>
+        <td>@Html.Label("Enter the Area of Interest")</td>
+        <td>@Html.Label("Cooking")@Html.CheckBox("C")
+        @Html.Label("Sports")@Html.CheckBox("S")
+       @Html.Label("Art")@Html.CheckBox("A")</td>
+
+    </tr>
+
+    <tr>
+        <td>
+            @Html.Label("Enter your City")
+        </td>
+        <td>@Html.DropDownList("City",
+           new SelectList(Enum.GetValues(typeof(cities)))
+           ,"Select City")</td>
+    </tr>
+    <tr>
+        <td colspan="2"><center> <button type="submit" id="save">Submit</button></center></td>
+    </tr>
+</table>
+}

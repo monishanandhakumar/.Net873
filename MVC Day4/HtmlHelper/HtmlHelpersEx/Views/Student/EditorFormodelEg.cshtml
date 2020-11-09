@@ -1,0 +1,12 @@
+﻿@model HtmlHelpersEx.Models.Student
+
+@{
+    ViewBag.Title = "DispalyFormodelEg";
+}
+
+<h2>DispalyFormodelEg</h2>
+
+@using (@Html.BeginForm())
+{
+    @Html.EditorForModel()
+} 

@@ -1,0 +1,46 @@
+﻿@model HtmlHelpersEx.Models.Student
+
+@{
+    ViewBag.Title = "StronglyTypedCreate";
+}
+
+<h2>StronglyTypedCreate</h2>
+
+@using (Html.BeginForm())
+{
+    <table border="1" cellspacing="5" cellpadding="7">
+
+        <tr>
+            <td>@Html.LabelFor(m => m.RollNo)</td>
+            <td>@Html.TextBoxFor(m => m.RollNo)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Name)</td>
+            <td>@Html.TextBoxFor(m => m.Name)</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.Gender)</td>
+            <td>
+                Male: @Html.RadioButtonFor(m => m.Gender, "Male", new { @checked = "checked" })
+                Female: @Html.RadioButtonFor(m => m.Gender, "Female")
+            </td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(m => m.City)</td>
+            <td>@Html.TextBoxFor(m => m.City)</td>
+        </tr>
+
+        <tr>
+            <td>@Html.LabelFor(m => m.Address)</td>
+            <td>@Html.EditorFor(m => m.Address)</td>
+        </tr>
+
+        <tr>
+            <td><input type="submit" /></td>
+        </tr>
+
+
+
+    </table>
+
+}

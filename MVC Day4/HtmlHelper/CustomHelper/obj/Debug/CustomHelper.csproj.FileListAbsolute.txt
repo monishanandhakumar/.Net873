@@ -1,0 +1,186 @@
+C:\Batch767\MVC\Day4\CustomHelper\bin\ApplicationInsights.config
+C:\Batch767\MVC\Day4\CustomHelper\bin\CustomHelper.dll.config
+C:\Batch767\MVC\Day4\CustomHelper\bin\CustomHelper.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\CustomHelper.pdb
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\csc.exe
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\csc.exe.config
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\csc.rsp
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\csi.exe
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\csi.exe.config
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\csi.rsp
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.AppContext.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Collections.Immutable.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Console.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Diagnostics.Process.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.IO.Compression.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.IO.FileSystem.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.IO.Pipes.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Reflection.Metadata.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Security.AccessControl.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Security.Claims.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Threading.Thread.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.ValueTuple.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Xml.XPath.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\vbc.exe
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\vbc.exe.config
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\vbc.rsp
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\VBCSCompiler.exe
+C:\Batch767\MVC\Day4\CustomHelper\bin\roslyn\VBCSCompiler.exe.config
+C:\Batch767\MVC\Day4\CustomHelper\bin\Antlr3.Runtime.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.DependencyCollector.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.Web.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.WindowsServer.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.ApplicationInsights.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.Web.Infrastructure.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\Newtonsoft.Json.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Helpers.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Mvc.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Optimization.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Razor.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.WebPages.Deployment.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.WebPages.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.WebPages.Razor.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\WebGrease.dll
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Helpers.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Mvc.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Optimization.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.Razor.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.WebPages.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.WebPages.Deployment.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Web.WebPages.Razor.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\Newtonsoft.Json.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\Antlr3.Runtime.pdb
+C:\Batch767\MVC\Day4\CustomHelper\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.DependencyCollector.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.WindowsServer.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.AI.Web.xml
+C:\Batch767\MVC\Day4\CustomHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Batch767\MVC\Day4\CustomHelper\obj\Debug\CustomHelper.csprojAssemblyReference.cache
+C:\Batch767\MVC\Day4\CustomHelper\obj\Debug\CustomHelper.csproj.CoreCompileInputs.cache
+C:\Batch767\MVC\Day4\CustomHelper\obj\Debug\CustomHelper.csproj.CopyComplete
+C:\Batch767\MVC\Day4\CustomHelper\obj\Debug\CustomHelper.dll
+C:\Batch767\MVC\Day4\CustomHelper\obj\Debug\CustomHelper.pdb
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\ApplicationInsights.config
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\CustomHelper.dll.config
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\CustomHelper.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\CustomHelper.pdb
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\csc.exe
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\csc.exe.config
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\csc.rsp
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\csi.exe
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\csi.exe.config
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\csi.rsp
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.AppContext.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Collections.Immutable.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Console.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Diagnostics.Process.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.IO.Compression.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.IO.FileSystem.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.IO.Pipes.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Reflection.Metadata.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Security.AccessControl.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Security.Claims.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Threading.Thread.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.ValueTuple.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Xml.XPath.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\vbc.exe
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\vbc.exe.config
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\vbc.rsp
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\VBCSCompiler.exe
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\roslyn\VBCSCompiler.exe.config
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Antlr3.Runtime.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.Agent.Intercept.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.DependencyCollector.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.Web.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.WindowsServer.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.ApplicationInsights.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.Web.Infrastructure.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Newtonsoft.Json.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Helpers.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Mvc.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Optimization.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Razor.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.WebPages.Deployment.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.WebPages.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.WebPages.Razor.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\WebGrease.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Helpers.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Mvc.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Optimization.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.Razor.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.WebPages.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.WebPages.Deployment.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Web.WebPages.Razor.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Newtonsoft.Json.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Antlr3.Runtime.pdb
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.DependencyCollector.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.WindowsServer.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.AI.Web.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\obj\Debug\CustomHelper.csprojAssemblyReference.cache
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\obj\Debug\CustomHelper.csproj.CoreCompileInputs.cache
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\obj\Debug\CustomHelper.csproj.CopyComplete
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\obj\Debug\CustomHelper.dll
+D:\TrainingMaterial\Batch\Batch 5\MVC_767-20201009T113835Z-001\MVC_767\Day4\CustomHelper\obj\Debug\CustomHelper.pdb
