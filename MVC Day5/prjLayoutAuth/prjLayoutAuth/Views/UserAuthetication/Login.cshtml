@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/MyShowlayout.cshtml";
+}
+
+<h2>Login</h2>
+
+
+@using (Html.BeginForm())
+{
+    @Html.Label("Name")
+    @Html.TextBox("txtuname")<br />
+    @Html.Label("Password")
+    @Html.TextBox("txtpwd")
+    <input type="submit" value="Login" />
+}

@@ -1,0 +1,31 @@
+﻿@*@using Microsoft.AspNet.Identity
+    @if (Request.IsAuthenticated)*@
+@if (Session["Loginstatus"] == "valid")
+{
+    using (Html.BeginForm("LogOff", "UserAuthetication", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+<ul class="nav navbar-nav navbar-right">
+    <li>@Html.ActionLink("Book Tickets", "Booking", "Home", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+    <li>
+        @Html.ActionLink("Feedback", "Feedback", "Home", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+    <li>
+        @Html.ActionLink("Hello " + Session["UserId"]@*User.Identity.GetUserName()*@/**/
+                                   /**/
+                                   + "!", "Index", "UserAuthetication", routeValues: null, htmlAttributes: new { title = "Manage" })
+
+    </li>
+    <li><a href="javascript:document.getElementById('logoutForm').submit()">Log off</a></li>
+</ul>
+    }
+}
+else
+{
+        <ul class="nav navbar-nav navbar-right">
+          
+
+            <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+            <li>@Html.ActionLink("Log in", "Login", "UserAuthetication", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+        </ul>
+}
