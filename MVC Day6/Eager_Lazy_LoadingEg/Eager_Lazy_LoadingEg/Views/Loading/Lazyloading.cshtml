@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "Lazyloading";
+    var data = Model;
+}
+
+<h2>Lazyloading</h2>
+
+@foreach(var item in data)
+{
+   <li>@item.CompanyName</li>
+}

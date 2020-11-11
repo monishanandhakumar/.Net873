@@ -1,0 +1,22 @@
+﻿
+@{
+                /**/
+
+                ViewBag.Title = "EagerLoading";
+}
+
+<h2>EagerLoading</h2>
+
+@foreach (var p in Model)
+{
+
+    <li>SupplierId:@p.SupplierID  </li>
+    <li>CompanyName:@p.CompanyName  </li>
+    foreach (var pr in p.Products)
+    {
+
+        <li>ProductName:@pr.ProductName</li>
+
+    }
+    <hr />
+}
