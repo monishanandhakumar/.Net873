@@ -1,7 +1,0 @@
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.csprojAssemblyReference.cache
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.csproj.CoreCompileInputs.cache
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.exe.config
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.exe
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\Csharp-Basics\bin\Debug\Csharp-Basics.pdb
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.exe
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\Csharp-Basics\obj\Debug\Csharp-Basics.pdb

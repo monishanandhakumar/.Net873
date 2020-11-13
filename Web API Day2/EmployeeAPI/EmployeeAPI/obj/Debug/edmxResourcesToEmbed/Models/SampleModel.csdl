@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SampleModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="deptid" />
+    </Key>
+    <Property Name="deptid" Type="Int32" Nullable="false" />
+    <Property Name="dname" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="location" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="employees" Relationship="Self.FK__employee__deptid__7C4F7684" FromRole="Department" ToRole="employee" />
+  </EntityType>
+  <EntityType Name="employee">
+    <Key>
+      <PropertyRef Name="emp_id" />
+    </Key>
+    <Property Name="emp_id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="age" Type="Int32" />
+    <Property Name="city" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="gender" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="mobile" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="deptid" Type="Int32" />
+    <Property Name="salary" Type="Int32" />
+    <NavigationProperty Name="Department" Relationship="Self.FK__employee__deptid__7C4F7684" FromRole="employee" ToRole="Department" />
+  </EntityType>
+  <Association Name="FK__employee__deptid__7C4F7684">
+    <End Role="Department" Type="Self.Department" Multiplicity="0..1" />
+    <End Role="employee" Type="Self.employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Department">
+        <PropertyRef Name="deptid" />
+      </Principal>
+      <Dependent Role="employee">
+        <PropertyRef Name="deptid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SampleEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Departments" EntityType="Self.Department" />
+    <EntitySet Name="employees" EntityType="Self.employee" />
+    <AssociationSet Name="FK__employee__deptid__7C4F7684" Association="Self.FK__employee__deptid__7C4F7684">
+      <End Role="Department" EntitySet="Departments" />
+      <End Role="employee" EntitySet="employees" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

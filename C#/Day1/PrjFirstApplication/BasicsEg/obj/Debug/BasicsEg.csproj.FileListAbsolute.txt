@@ -1,7 +1,0 @@
-D:\Online Training\LTI\.Net873\C#\Day1\PrjFirstApplication\BasicsEg\bin\Debug\BasicsEg.exe.config
-D:\Online Training\LTI\.Net873\C#\Day1\PrjFirstApplication\BasicsEg\bin\Debug\BasicsEg.exe
-D:\Online Training\LTI\.Net873\C#\Day1\PrjFirstApplication\BasicsEg\bin\Debug\BasicsEg.pdb
-D:\Online Training\LTI\.Net873\C#\Day1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.csprojAssemblyReference.cache
-D:\Online Training\LTI\.Net873\C#\Day1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.csproj.CoreCompileInputs.cache
-D:\Online Training\LTI\.Net873\C#\Day1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.exe
-D:\Online Training\LTI\.Net873\C#\Day1\PrjFirstApplication\BasicsEg\obj\Debug\BasicsEg.pdb

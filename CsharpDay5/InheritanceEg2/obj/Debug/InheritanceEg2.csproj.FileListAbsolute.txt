@@ -1,7 +1,0 @@
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.exe.config
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.exe
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\InheritanceEg2\bin\Debug\InheritanceEg2.pdb
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.csprojAssemblyReference.cache
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.csproj.CoreCompileInputs.cache
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.exe
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\InheritanceEg2\obj\Debug\InheritanceEg2.pdb

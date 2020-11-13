@@ -1,7 +1,0 @@
-D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\DelegateEg\bin\Debug\DelegateEg.exe.config
-D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\DelegateEg\bin\Debug\DelegateEg.exe
-D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\DelegateEg\bin\Debug\DelegateEg.pdb
-D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\DelegateEg\obj\Debug\DelegateEg.csproj.CoreCompileInputs.cache
-D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\DelegateEg\obj\Debug\DelegateEg.exe
-D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\DelegateEg\obj\Debug\DelegateEg.pdb
-D:\Online Training\LTI\.Net873\C#\Csharp Day9\LinqEg\DelegateEg\obj\Debug\DelegateEg.csprojAssemblyReference.cache

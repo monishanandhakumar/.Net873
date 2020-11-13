@@ -1,7 +1,0 @@
-D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\DisconnectedArchitectureEg\bin\Debug\DisconnectedArchitectureEg.exe.config
-D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\DisconnectedArchitectureEg\bin\Debug\DisconnectedArchitectureEg.exe
-D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\DisconnectedArchitectureEg\bin\Debug\DisconnectedArchitectureEg.pdb
-D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\DisconnectedArchitectureEg\obj\Debug\DisconnectedArchitectureEg.csprojAssemblyReference.cache
-D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\DisconnectedArchitectureEg\obj\Debug\DisconnectedArchitectureEg.csproj.CoreCompileInputs.cache
-D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\DisconnectedArchitectureEg\obj\Debug\DisconnectedArchitectureEg.exe
-D:\Online Training\LTI\.Net873\C#\Csharpday7\PrjAdo.NetEg\DisconnectedArchitectureEg\obj\Debug\DisconnectedArchitectureEg.pdb

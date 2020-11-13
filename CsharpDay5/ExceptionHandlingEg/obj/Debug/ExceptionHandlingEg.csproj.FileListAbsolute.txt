@@ -1,7 +1,0 @@
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe.config
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.exe
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\ExceptionHandlingEg\bin\Debug\ExceptionHandlingEg.pdb
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csprojAssemblyReference.cache
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.csproj.CoreCompileInputs.cache
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.exe
-D:\Online Training\LTI\.Net873\C#\CsharpDay5\ExceptionHandlingEg\obj\Debug\ExceptionHandlingEg.pdb

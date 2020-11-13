@@ -1,7 +1,0 @@
-C:\Users\MonishaDevi\source\repos\CollectionEg\Non-GenericCollectionEg\bin\Debug\Non-GenericCollectionEg.exe.config
-C:\Users\MonishaDevi\source\repos\CollectionEg\Non-GenericCollectionEg\bin\Debug\Non-GenericCollectionEg.exe
-C:\Users\MonishaDevi\source\repos\CollectionEg\Non-GenericCollectionEg\bin\Debug\Non-GenericCollectionEg.pdb
-C:\Users\MonishaDevi\source\repos\CollectionEg\Non-GenericCollectionEg\obj\Debug\Non-GenericCollectionEg.csprojAssemblyReference.cache
-C:\Users\MonishaDevi\source\repos\CollectionEg\Non-GenericCollectionEg\obj\Debug\Non-GenericCollectionEg.csproj.CoreCompileInputs.cache
-C:\Users\MonishaDevi\source\repos\CollectionEg\Non-GenericCollectionEg\obj\Debug\Non-GenericCollectionEg.exe
-C:\Users\MonishaDevi\source\repos\CollectionEg\Non-GenericCollectionEg\obj\Debug\Non-GenericCollectionEg.pdb

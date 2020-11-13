@@ -1,7 +1,0 @@
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\MethodsEg\bin\Debug\MethodsEg.exe.config
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\MethodsEg\bin\Debug\MethodsEg.exe
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\MethodsEg\bin\Debug\MethodsEg.pdb
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.csprojAssemblyReference.cache
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.csproj.CoreCompileInputs.cache
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.exe
-D:\Online Training\LTI\.Net873\C#\Day2\PrjSecondApplication\MethodsEg\obj\Debug\MethodsEg.pdb
